@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.905" height="42.9" viewBox="0 0 58.905 42.9">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#000;stroke-linejoin:round}.prefix__cls-2{fill:#8800c2}.prefix__cls-3{stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="prefix__Layer_2" data-name="Layer 2" transform="translate(-.5 -.5)">
+        <g id="prefix__Layer_1" data-name="Layer 1" transform="translate(1 1)">
+            <path id="prefix__Path_728" d="M1 42.9l1.056-2.576v-8.75L1 28.984h8.894l1.422-3.127H7.759V1h44.392v24.839h-3.562l1.422 3.127H58.9l-1.061 2.608v8.751L58.9 42.9H1zm0 0h57.9l-1.056-2.557H2.07zm53.875-2.571h2.942v-8.755h-2.942zm-16.621 0h16.621v-8.755H38.268zm-16.621 0h16.621v-4.382H21.647zm-16.621 0h16.625v-8.755H5.026zm-2.955 0h2.96v-8.755H2.07zm19.577-4.382h16.62v-4.373H21.647zM2.07 31.546h55.765l1.07-2.562H1zm45.082-2.571H50l-1.422-3.127H45.73zm-34.391 0h34.382l-1.427-3.127H14.184zm-2.854 0h2.84l1.422-3.127H11.33zm-2.144-3.141h44.379V1H7.763z" data-name="Path 728" transform="translate(-1 -1)" style="fill:none;stroke:#000;stroke-linejoin:round"/>
+            <circle id="prefix__Ellipse_183" cx="1.418" cy="1.418" r="1.418" class="prefix__cls-2" data-name="Ellipse 183" transform="translate(10.914 33.52)"/>
+            <circle id="prefix__Ellipse_184" cx="1.418" cy="1.418" r="1.418" class="prefix__cls-2" data-name="Ellipse 184" transform="translate(44.151 33.52)"/>
+            <path id="prefix__Line_258" d="M0 15.162L14.828 0" class="prefix__cls-3" data-name="Line 258" transform="translate(21.536 4.841)"/>
+            <path id="prefix__Line_259" d="M0 9.501L9.501 0" class="prefix__cls-3" data-name="Line 259" transform="translate(26.868 10.497)"/>
+        </g>
+    </g>
+</svg>

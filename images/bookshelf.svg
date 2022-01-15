@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.425" height="45.833" viewBox="0 0 40.425 45.833">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#8800c2}
+        </style>
+    </defs>
+    <g id="prefix__Layer_2" data-name="Layer 2" transform="translate(-.5 -13.19)">
+        <g id="prefix__Layer_1" data-name="Layer 1" transform="translate(1 13.69)">
+            <path id="prefix__Path_732" d="M1 58.523l39.425-.023H1zm19.715 0H40.42V47.634h-19.7zM1 58.491h19.71V47.634H1zm0-10.866h39.42V35.249H1zm0-12.376h39.42v-3.774H1zm33.707-3.76h5.7V17.451H1v5.4h4.655v-1.822h9.584v10.437h13.923m0 0h5.545m-24.26 0h4.773v-10.41h-4.773zm-4.783 0h4.774v-10.41H5.664zm-4.664 0h4.655v-8.6H1zm0-14.015h39.42V13.7H1zm29.622-3.76zm-4.783 0zm-4.76 0z" data-name="Path 732" transform="translate(-1 -13.69)" style="fill:none;stroke:#000;stroke-linejoin:round"/>
+            <rect id="prefix__Rectangle_119" width="5.746" height="1.196" class="prefix__cls-2" data-name="Rectangle 119" rx=".598" transform="translate(6.987 38.768)"/>
+            <rect id="prefix__Rectangle_120" width="5.746" height="1.196" class="prefix__cls-2" data-name="Rectangle 120" rx=".598" transform="translate(26.697 38.768)"/>
+            <path id="prefix__Rectangle_121" d="M0 0H0.977V36.627H0z" class="prefix__cls-2" data-name="Rectangle 121" transform="rotate(90 9.426 28.602)"/>
+        </g>
+    </g>
+</svg>

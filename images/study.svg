@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Layer_2" width="71.132" height="35.981" data-name="Layer 2" viewBox="0 0 71.132 35.981">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#8800c2}
+        </style>
+    </defs>
+    <g id="prefix__Layer_1" data-name="Layer 1">
+        <path id="prefix__Path_731" d="M70.235.9v1.952H67.5v32.232h-1.956V2.852h-37.8v32.232H25.8v-1.875H5.588v1.875H3.637V2.852H.9V.9h69.335M5.588 8.794H25.8V2.852H5.588v5.942m0 21.809H25.8v-19.84H5.588V30.6M70.235 0H.9a.9.9 0 0 0-.9.9v1.952a.9.9 0 0 0 .9.9h1.84v31.332a.9.9 0 0 0 .9.9h1.948a.9.9 0 0 0 .9-.9v-.978H24.9v.978a.9.9 0 0 0 .9.9h1.951a.9.9 0 0 0 .9-.9V10.763a.058.058 0 0 0 0-.027V8.794a.076.076 0 0 0 0-.031V3.749h36v31.335a.9.9 0 0 0 .9.9H67.5a.9.9 0 0 0 .9-.9V3.749h1.839a.9.9 0 0 0 .9-.9V.9a.9.9 0 0 0-.904-.9zM6.485 3.749H24.9V7.9H6.485zm0 7.9H24.9v18.06H6.485V11.66z" data-name="Path 731"/>
+        <circle id="prefix__Ellipse_186" cx=".897" cy=".897" r=".897" class="prefix__cls-1" data-name="Ellipse 186" transform="translate(14.795 4.924)"/>
+        <circle id="prefix__Ellipse_187" cx=".897" cy=".897" r=".897" class="prefix__cls-1" data-name="Ellipse 187" transform="translate(21.8 19.778)"/>
+    </g>
+</svg>
